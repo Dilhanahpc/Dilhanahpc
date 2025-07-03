@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm **Chandupa Dilhara**, a tech enthusiast and aspiring software engineer from 🇱🇰 **Matara, Sri Lanka**.  
+I'm **Chandupa Dilhana**, a tech enthusiast and aspiring software engineer from 🇱🇰 **Matara, Sri Lanka**.  
 I’m passionate about learning new technologies, building cool projects, and collaborating on GitHub.  
 Always eager to solve problems, improve user experiences, and explore new programming frontiers.
 
