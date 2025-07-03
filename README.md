@@ -1,31 +1,35 @@
-# Hi there 👋
+## Hi there 👋
 
-I'm **Chandupa Dilhana**, a tech enthusiast and aspiring software engineer from 🇱🇰 **Matara, Sri Lanka**.  
-I’m passionate about learning new technologies, building cool projects, and collaborating on GitHub.  
-Always eager to solve problems, improve user experiences, and explore new programming frontiers.
+### Who am I?
 
----
-
-## 🚀 About Me
-
-- 🌍 From: Matara, Sri Lanka  
-- 💬 Languages: Sinhala, English  
-- 📚 Currently learning: Full Stack Development & Embedded Systems  
-- 🛠️ Tech interests: Web Dev · Java · VHDL · HTML · GitHub Projects  
-- 🎯 Goal: Contribute to open-source & inspire fellow learners  
-- 🧠 Motto: _“Consistency beats intensity.”_
+I'm **Chandupa Dilhana**, a tech enthusiast who enjoys exploring new technologies — not just programming languages but also hardware and real-world problem solving.  
+I love to share what I learn through coding projects, GitHub repos, and collaboration with others.  
+Currently diving deep into **Java**, **VHDL**, and **Web Development** while always open to learning more.
 
 ---
 
-## 📫 How to reach me
+### 📊 My GitHub Stats
 
-- 📧 **Email**: [chandupadilhan04@gmail.com](mailto:chandupadilhan04@gmail.com)  
-- 🔗 **LinkedIn**: [Chandupa Dilhara](https://www.linkedin.com/in/chandupa-dilhana-893b872b0)  
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Dilhanahpc&show_icons=true&include_all_commits=true&theme=dracula" alt="GitHub stats" />
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dilhanahpc&layout=compact&theme=dracula" alt="languages" />
 
 ---
 
-## 🧰 Tech Stack
+### 📌 Featured Repositories
 
-```bash
-💻 Languages: Java · HTML · VHDL · C++
-🔧 Tools: Git · GitHub · VS Code · Figma
+- 🔹 [**improved-meme**](https://github.com/Dilhanahpc/improved-meme) – Simple creative tool  
+- 🔹 [**examQ**](https://github.com/Dilhanahpc/examQ) – Java question generator  
+- 🔹 [**bracket_balancing**](https://github.com/Dilhanahpc/bracket_balancing) – Expression checker  
+- 🔹 [**CODD_nanoprocessor**](https://github.com/Dilhanahpc/CODD_nanoprocessor) – VHDL-based CPU  
+- 🔹 [**TutorConnect**](https://github.com/Dilhanahpc/TutorConnect) – Tutor-student platform  
+
+---
+
+### 🌐 Contact Me
+
+- 📍 Matara, Sri Lanka  
+- 📧 [chandupadilhan04@gmail.com](mailto:chandupadilhan04@gmail.com)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/chandupa-dilhana-893b872b0)
+
+> _“Code for impact. Learn for life.”_  
