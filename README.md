@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**Dilhanahpc/Dilhanahpc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Chandupa Dilhara**, a tech enthusiast and aspiring software engineer from 🇱🇰 **Matara, Sri Lanka**.  
+I’m passionate about learning new technologies, building cool projects, and collaborating on GitHub.  
+Always eager to solve problems, improve user experiences, and explore new programming frontiers.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🌍 From: Matara, Sri Lanka  
+- 💬 Languages: Sinhala, English  
+- 📚 Currently learning: Full Stack Development & Embedded Systems  
+- 🛠️ Tech interests: Web Dev · Java · VHDL · HTML · GitHub Projects  
+- 🎯 Goal: Contribute to open-source & inspire fellow learners  
+- 🧠 Motto: _“Consistency beats intensity.”_
+
+---
+
+## 📫 How to reach me
+
+- 📧 **Email**: [chandupadilhan04@gmail.com](mailto:chandupadilhan04@gmail.com)  
+- 🔗 **LinkedIn**: [Chandupa Dilhara](https://www.linkedin.com/in/chandupa-dilhana-893b872b0)  
+
+---
+
+## 🧰 Tech Stack
+
+```bash
+💻 Languages: Java · HTML · VHDL · C++
+🔧 Tools: Git · GitHub · VS Code · Figma
