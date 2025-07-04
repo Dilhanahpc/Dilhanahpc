@@ -1,5 +1,7 @@
 Hi there 👋
+
 Who am I?
+
 I'm Chandupa Dilhana, a tech enthusiast who enjoys exploring new technologies — not just programming languages but also hardware and real-world problem solving.
 
 I love to share what I learn through coding projects, GitHub repos, and collaboration with others.
