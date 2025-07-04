@@ -7,6 +7,8 @@ I love to share what I learn through coding projects, GitHub repos, and collabor
 Currently diving deep into Java, VHDL, and Web Development while always open to learning more.
 
 📊 My GitHub Stats
+
+
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Dilhanahpc&show_icons=true&include_all_commits=true&theme=dracula" alt="GitHub stats" />
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dilhanahpc&layout=compact&theme=dracula" alt="languages" />
