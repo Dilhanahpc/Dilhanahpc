@@ -1,4 +1,4 @@
-<!-- Futuristic GitHub Profile – Professional Version (No Profile Image / Badge) -->
+<!-- Futuristic GitHub Profile – Professional Version (No Profile Image / Badge / Top Languages) -->
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&color=00E6FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Chandupa+Dilhana+👨‍💻;Tech+Explorer+%7C+Developer+%7C+Hardware+Enthusiast;Java+💙+VHDL+⚡+Web+Developer">
@@ -28,7 +28,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Dilhanahpc&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00E6FF&icon_color=00E6FF" width="280"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dilhanahpc&theme=react&hide_border=true&background=0D1117&ring=00E6FF&currStreakLabel=00E6FF" width="280"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dilhanahpc&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00E6FF" width="280"/>
 </p>
 
 ---
