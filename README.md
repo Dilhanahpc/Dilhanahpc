@@ -1,12 +1,7 @@
-<!-- Futuristic GitHub Profile – Complete Neon Version with Thin Neon Bars -->
-
-<!-- Neon Scroll Glow Effect Top – Thin Horizontal -->
-<p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="700" alt="thin neon glow top" />
-</p>
+<!-- Futuristic GitHub Profile – Professional Version -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&color=00E6FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Chandupa+Dilhana+👨‍💻;Tech+Explorer+%7C+Developer+%7C+Hardware+Enthusiast;Java+💙+VHDL+⚡+Web+Developer;🔥+Current+Streak+%3A+<img+src='https://github-readme-streak-stats.herokuapp.com/?user=Dilhanahpc&theme=react&hide_border=true'>;Top+Language+%3A+<img+src='https://github-readme-stats.vercel.app/api/top-langs/?username=Dilhanahpc&layout=compact&theme=react&hide_border=true'>">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&color=00E6FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Chandupa+Dilhana+👨‍💻;Tech+Explorer+%7C+Developer+%7C+Hardware+Enthusiast;Java+💙+VHDL+⚡+Web+Developer">
 </h1>
 
 <p align="center">
@@ -58,7 +53,7 @@
 
 ---
 
-### 🌍 Real-time Contributions Globe & Neon Heatmap
+### 🌍 Real-time Contributions Globe & Heatmap
 
 <p align="center">
   <a href="https://github.com/Dilhanahpc">
@@ -88,8 +83,3 @@
 <div align="center">
   <img src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" width="220"/>
 </div>
-
-<!-- Neon Scroll Glow Effect Bottom – Thin Horizontal -->
-<p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="700" alt="thin neon glow bottom" />
-</p>
