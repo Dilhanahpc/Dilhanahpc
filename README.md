@@ -1,16 +1,8 @@
-<!-- Futuristic GitHub Profile – Professional Version -->
+<!-- Futuristic GitHub Profile – Professional Version (No Profile Image / Badge) -->
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&color=00E6FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Chandupa+Dilhana+👨‍💻;Tech+Explorer+%7C+Developer+%7C+Hardware+Enthusiast;Java+💙+VHDL+⚡+Web+Developer">
 </h1>
-
-<p align="center">
-  <img src="https://github.com/ChandupaDilhana.png" width="120" style="border-radius:50%; border: 3px solid #00E6FF;">
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dilhanahpc&color=00E6FF&style=for-the-badge&label=PROFILE+VIEWS" />
-</p>
 
 ---
 
@@ -80,6 +72,3 @@
 ---
 
 <h3 align="center">⚡ "Code for impact. Learn for life." ⚡</h3>
-<div align="center">
-  <img src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" width="220"/>
-</div>
