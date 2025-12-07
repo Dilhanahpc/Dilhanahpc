@@ -1,4 +1,9 @@
-<!-- Cyber Neon Futuristic GitHub Profile – Mobile Responsive -->
+<!-- Futuristic GitHub Profile – Complete Neon Version -->
+
+<!-- Neon Scroll Glow Effect Top -->
+<p align="center">
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="100%" alt="neon glow scroll effect" />
+</p>
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&color=00E6FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Chandupa+Dilhana+👨‍💻;Tech+Explorer+%7C+Developer+%7C+Hardware+Enthusiast;Java+💙+VHDL+⚡+Web+Developer;🔥+Current+Streak+%3A+<img+src='https://github-readme-streak-stats.herokuapp.com/?user=Dilhanahpc&theme=react&hide_border=true'>;Top+Language+%3A+<img+src='https://github-readme-stats.vercel.app/api/top-langs/?username=Dilhanahpc&layout=compact&theme=react&hide_border=true'>">
@@ -42,118 +47,32 @@
 ---
 
 ### 🚀 Featured Projects with Live Stats
-<div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:15px; max-width:100%;">
 
-<!-- Example Project Card -->
-<div class="project-card">
-  <a href="https://github.com/Dilhanahpc/improved-meme" target="_blank">
-    <div class="card-title">🔹 Improved Meme</div>
-    <div class="card-desc">
-      Creative meme tool<br>
-      ⭐ <img src="https://img.shields.io/github/stars/Dilhanahpc/improved-meme?style=for-the-badge&color=00E6FF" alt="Stars"> 
-      🍴 <img src="https://img.shields.io/github/forks/Dilhanahpc/improved-meme?style=for-the-badge&color=00E6FF" alt="Forks"><br>
-      🕒 Last update: <img src="https://img.shields.io/github/last-commit/Dilhanahpc/improved-meme?style=for-the-badge&color=00E6FF" alt="Last Commit">
-    </div>
+| Project | Description | Stars | Forks | Last Commit |
+|--------|-------------|-------|-------|-------------|
+| [💡 🔹 Improved Meme](https://github.com/Dilhanahpc/improved-meme) | Creative meme tool ✨ | ![Stars](https://img.shields.io/github/stars/Dilhanahpc/improved-meme?style=for-the-badge&color=00E6FF) | ![Forks](https://img.shields.io/github/forks/Dilhanahpc/improved-meme?style=for-the-badge&color=00E6FF) | ![Last Commit](https://img.shields.io/github/last-commit/Dilhanahpc/improved-meme?style=for-the-badge&color=00E6FF) |
+| [⚡ 🔹 examQ](https://github.com/Dilhanahpc/examQ) | Automatic exam question generator 📝 | ![Stars](https://img.shields.io/github/stars/Dilhanahpc/examQ?style=for-the-badge&color=00E6FF) | ![Forks](https://img.shields.io/github/forks/Dilhanahpc/examQ?style=for-the-badge&color=00E6FF) | ![Last Commit](https://img.shields.io/github/last-commit/Dilhanahpc/examQ?style=for-the-badge&color=00E6FF) |
+| [🧩 🔹 Bracket Balancing](https://github.com/Dilhanahpc/bracket_balancing) | Expression validator ✅ | ![Stars](https://img.shields.io/github/stars/Dilhanahpc/bracket_balancing?style=for-the-badge&color=00E6FF) | ![Forks](https://img.shields.io/github/forks/Dilhanahpc/bracket_balancing?style=for-the-badge&color=00E6FF) | ![Last Commit](https://img.shields.io/github/last-commit/Dilhanahpc/bracket_balancing?style=for-the-badge&color=00E6FF) |
+| [🛠️ 🔹 CODD Nanoprocessor](https://github.com/Dilhanahpc/CODD_nanoprocessor) | CPU in VHDL ⚡ | ![Stars](https://img.shields.io/github/stars/Dilhanahpc/CODD_nanoprocessor?style=for-the-badge&color=00E6FF) | ![Forks](https://img.shields.io/github/forks/Dilhanahpc/CODD_nanoprocessor?style=for-the-badge&color=00E6FF) | ![Last Commit](https://img.shields.io/github/last-commit/Dilhanahpc/CODD_nanoprocessor?style=for-the-badge&color=00E6FF) |
+| [🎓 🔹 TutorConnect](https://github.com/Dilhanahpc/TutorConnect) | Tutor-student platform 📚 | ![Stars](https://img.shields.io/github/stars/Dilhanahpc/TutorConnect?style=for-the-badge&color=00E6FF) | ![Forks](https://img.shields.io/github/forks/Dilhanahpc/TutorConnect?style=for-the-badge&color=00E6FF) | ![Last Commit](https://img.shields.io/github/last-commit/Dilhanahpc/TutorConnect?style=for-the-badge&color=00E6FF) |
+
+---
+
+### 🌍 Real-time Contributions Globe & Neon Heatmap
+
+<p align="center">
+  <a href="https://github.com/Dilhanahpc">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dilhanahpc&theme=radical" />
   </a>
-</div>
+</p>
 
-<!-- Duplicate for other projects -->
+<p align="center">
+  <img src="https://github.com/Dilhanahpc/activity-graph/blob/main/github-contribution-grid-snake.svg" />
+</p>
 
-</div>
-
-<style>
-/* Responsive Project Cards */
-.project-card {
-  position: relative;
-  width: 90%;
-  max-width: 220px;
-  min-width: 180px;
-  height: 140px;
-  border: 2px solid #00E6FF;
-  border-radius: 15px;
-  overflow: hidden;
-  margin: 8px;
-  cursor: pointer;
-  animation: float 3s ease-in-out infinite alternate, glow 2s ease-in-out infinite alternate;
-  transition: transform 0.3s;
-}
-
-.project-card:hover {
-  transform: scale(1.05);
-}
-
-.card-title {
-  position: absolute;
-  width: 100%;
-  height: 100%;
-  background: #0D1117;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  font-weight: bold;
-  font-size: 14px;
-  transition: transform 0.3s;
-}
-
-.card-desc {
-  position: absolute;
-  width: 100%;
-  height: 100%;
-  background: rgba(0,230,255,0.9);
-  color: #0D1117;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  text-align: center;
-  padding: 6px;
-  font-size: 11px;
-  opacity: 0;
-  transition: opacity 0.3s;
-}
-
-.project-card:hover .card-desc {
-  opacity: 1;
-}
-
-.project-card:hover .card-title {
-  transform: scale(0.95);
-}
-
-/* Animations */
-@keyframes float {
-  0% { transform: translateY(0px); }
-  50% { transform: translateY(-8px); }
-  100% { transform: translateY(0px); }
-}
-
-@keyframes glow {
-  0% { box-shadow: 0 0 4px #00E6FF; }
-  50% { box-shadow: 0 0 15px #00E6FF; }
-  100% { box-shadow: 0 0 4px #00E6FF; }
-}
-
-body {
-  animation: pulse 5s ease-in-out infinite alternate;
-}
-
-@keyframes pulse {
-  0% { background-color: #0D1117; }
-  50% { background-color: #10141B; }
-  100% { background-color: #0D1117; }
-}
-
-/* Mobile-friendly flex wrap */
-@media (max-width: 600px) {
-  .project-card {
-    width: 95%;
-    height: auto;
-    min-height: 120px;
-  }
-  .card-desc { font-size: 10px; }
-  .card-title { font-size: 13px; }
-}
-</style>
+<p align="center">
+  <img src="https://github-contribution-cards.vercel.app/api/card?username=Dilhanahpc&type=heatmap&theme=react-dark"/>
+</p>
 
 ---
 
@@ -169,3 +88,8 @@ body {
 <div align="center">
   <img src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" width="220"/>
 </div>
+
+<!-- Neon Scroll Glow Effect Bottom -->
+<p align="center">
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="100%" alt="neon glow scroll effect" />
+</p>
