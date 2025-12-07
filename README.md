@@ -1,8 +1,8 @@
-<!-- Futuristic GitHub Profile – Complete Neon Version -->
+<!-- Futuristic GitHub Profile – Complete Neon Version with Thin Neon Bars -->
 
-<!-- Neon Scroll Glow Effect Top -->
+<!-- Neon Scroll Glow Effect Top – Thin Horizontal -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="100%" alt="neon glow scroll effect" />
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="700" alt="thin neon glow top" />
 </p>
 
 <h1 align="center">
@@ -89,7 +89,7 @@
   <img src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" width="220"/>
 </div>
 
-<!-- Neon Scroll Glow Effect Bottom -->
+<!-- Neon Scroll Glow Effect Bottom – Thin Horizontal -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="100%" alt="neon glow scroll effect" />
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="700" alt="thin neon glow bottom" />
 </p>
