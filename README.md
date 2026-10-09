@@ -1,6 +1,4 @@
-Here is the updated **Technical Arsenal** section featuring Docker, Prometheus, Grafana, and dedicated Linux observability tooling:
 
-```markdown
 ### 🧰 Technical Arsenal
 
 <table>
@@ -41,11 +39,8 @@ Here is the updated **Technical Arsenal** section featuring Docker, Prometheus, 
   </tr>
 </table>
 
-```
-
 ### Full Updated README
 
-```markdown
 <div align="center">
 
 # ⚡ Chandupa Dilhana
@@ -61,15 +56,12 @@ Here is the updated **Technical Arsenal** section featuring Docker, Prometheus, 
 
 </div>
 
----
 
 ### 📡 Systems & Reliability Focus
 
 - 🛠️ **Core Focus:** System reliability, performance tuning, infrastructure observability, and systems-level programming.
 - ⚡ **Hardware-to-Software Perspective:** Background in computer architecture (VHDL/nanoprocessors) and low-level development, bringing deep mechanical sympathy to distributed infrastructure.
 - 🎯 **Target Domains:** SRE, Platform Engineering, Observability, CI/CD pipeline automation, and Linux kernel internals.
-
----
 
 ### 🧰 Technical Arsenal
 
@@ -110,8 +102,6 @@ Here is the updated **Technical Arsenal** section featuring Docker, Prometheus, 
     </td>
   </tr>
 </table>
-
----
 
 ### 🛠️ Featured Systems & Engineering Work
 
@@ -147,8 +137,6 @@ Here is the updated **Technical Arsenal** section featuring Docker, Prometheus, 
   </tbody>
 </table>
 
----
-
 ### 📊 Performance & Telemetry
 
 <div align="center">
@@ -160,10 +148,8 @@ Here is the updated **Technical Arsenal** section featuring Docker, Prometheus, 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dilhanahpc&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E6FF&text_color=9BA1A6" width="60%" />
 </div>
 
----
 
 <div align="center">
   <sub>"Reliability is not an accident; it is engineered from silicon up to the cloud."</sub>
 </div>
 
-```
